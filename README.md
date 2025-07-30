@@ -6,7 +6,16 @@ Developed a machine learning model to accurately predict crop yields based on ke
 <img width="1896" height="923" alt="Screenshot 2025-07-31 022500" src="https://github.com/user-attachments/assets/ece74730-d715-4e41-8274-1daa00fab382" />
 
 
+
+
+
+
 <img width="1895" height="926" alt="Screenshot 2025-07-31 022533" src="https://github.com/user-attachments/assets/f2443c42-cbbc-474f-b51b-77dc20577dc6" />
+
+
+
+
+
 
 
 <img width="1918" height="925" alt="Screenshot 2025-07-31 022600" src="https://github.com/user-attachments/assets/ec950813-c268-44dd-b729-85a700c5f960" />
